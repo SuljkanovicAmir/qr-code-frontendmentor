@@ -17,7 +17,7 @@ body {
 
 .img-div,
 .img-div img {
-    width: 250px;
+    width: 280px;
     height: auto;
     border-radius: 10px;
 }
@@ -39,7 +39,6 @@ body {
 }
 
 .text-div {
-    width: 250px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -47,7 +46,7 @@ body {
 }
 
 .text-div h1 {
-    font-size: 18px;
+    font-size: 21px;
     font-family: 'Outfit', sans-serif;
 }
 
